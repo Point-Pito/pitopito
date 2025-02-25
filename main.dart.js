@@ -83949,10 +83949,10 @@ return A.S($async$tV,r)},
 L(a){var s=t.p
 return new A.hI(A.dI(A.b([B.c2,B.Tc,B.c2,A.iw(A.b([B.SZ,B.eH,A.iB(B.Lx,new A.a7l(this),null)],s),B.N,B.I,B.y),B.c2,A.iw(A.b([B.Te,B.eH,A.iB(B.Lw,new A.a7m(this),null)],s),B.N,B.I,B.y),B.c2],s),B.an,B.I,B.y),null)}}
 A.a7l.prototype={
-$0(){this.a.tV("legal/CGU.pdf")},
+$0(){this.a.tV("assets/legal/CGU.pdf")},
 $S:0}
 A.a7m.prototype={
-$0(){this.a.tV("legal/CGV.pdf")},
+$0(){this.a.tV("assets/legal/CGV.pdf")},
 $S:0}
 A.uC.prototype={
 L(a){var s=null
